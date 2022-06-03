@@ -1,0 +1,24 @@
+.slide-show img{
+	width:cover;
+	
+	min-width: 150px;
+}
+.portifileo img{
+	margin-bottom: 20px;	
+
+}
+.business img{
+	max-height: 300px;
+	min-height: 150px; 
+}
+.Footer p{
+	padding:50px 0;
+}
+.sendMessageForm input,.sendMessageForm label{
+	margin:10px;
+}
+.service img{
+	width:100%;
+	max-height: 400PX;
+	min-height: 150px;
+}

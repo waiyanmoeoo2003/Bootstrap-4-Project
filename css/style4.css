@@ -1,0 +1,66 @@
+.customdiv{
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	min-height:300px;
+	background-color: silver;
+	margin:3px;
+	font-size:large;
+}
+.aa{
+	border-radius: 150px;
+}
+.customdiv1{
+	font-family: 'Raleway', sans-serif;
+	
+	min-height:200px;
+	
+	margin:3px;
+	font-size:large;
+}
+.customdiv{
+	
+	text-align:center;
+	min-height:50px;
+	
+	margin:3px;
+	font-size:large;
+	
+}
+.ab{
+	border-radius: 150px;
+	margin:0 auto;
+	
+}
+.cust{
+	
+	text-align:center;
+	min-height:50px;
+	
+	margin:3px;
+	font-size:large;
+}
+.wew{
+	text-align:center;
+	background-color: white;
+}
+.wewa{
+	text-align:center;
+
+}
+.customdiv5{
+	background-color: silver;
+	min-height: 60px;
+	text-align:center;
+}
+/*-------------------------------------------------------------------------------*/
+
+.dd{
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	min-height:300px;
+	margin:3px;
+	font-size:large;
+}
+.dd1{
+	text-align:center;
+}

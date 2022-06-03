@@ -1,0 +1,57 @@
+/*#responsiveimage{
+	border:2px solid black;
+	width:300px;
+	height:360px;
+	overflow:hidden;
+}
+img{
+	max-width: 100%;
+	height: auto;
+	padding-left:3px;
+	transition:transform 1s linear;
+}
+h3{
+	text-align:center;
+}
+img:hover{
+	padding-left:0;
+	filter:grayscale(60%);
+	transform:scale(2);
+}
+#responsiveimage:hover{
+	box-shadow: 5px 5px 5px grey;
+}*/
+
+/**{
+	margin:0;
+	padding:0;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	
+	width:200px;
+	float:left;
+	background-color:blue;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	border:2px solid white;
+
+}
+a{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+#sublink{
+	height:0;
+	overflow:hidden;
+	transform:scale(0);
+	transition:all 1s linear;
+}
+.sublink:hover #sublink{
+	transform:scale(1);
+	height:210px;
+}*/

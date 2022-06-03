@@ -1,0 +1,111 @@
+/*
+Default Themes
+==============================================================
+	Google Fonts
+		font-family: 'Open Sans', sans-serif;
+		font-family: 'Raleway', sans-serif;
+
+	Color
+		Yellow	FFEA00
+		Grey	9e9e9e
+		White	fff
+		Black	212121
+*/
+
+
+.gg1{
+	background-color:silver;
+	margin:3px;
+	min-height: 300px;
+	text-align:center;
+	font-size: large;
+}
+.gg2{
+	background-color: silver;
+	margin:3px;
+	
+	min-height:100px;
+	text-align:center;
+	font-size:large;
+}
+.customdiv{
+	text-align:center;
+	background-color:#1de9b6;
+	min-height:500px;
+	color:white;
+}
+#ww{
+	height:300px;
+	width: 300px;
+	border-radius:200px;
+}
+.div1{
+	background-color:black;
+	min-height:250px;
+	text-align:center;
+	color:white;
+
+}
+.ez{
+	background-color:orange;
+	color:white;
+}
+.qq{
+	background-color:black;
+}
+.customdiv1{
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	background-color:orange;
+	min-height:300px;
+	color:white;
+}
+.tet{
+	color:silver;
+}
+.gg{
+	width:100%;
+	margin-top:30px;
+}
+.aa{
+	width:100%;
+	height:400px;
+}
+.customdiv2{
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	
+	min-height:200px;
+	color:black;
+
+}
+.ss{
+	color:orange;
+}
+.aw{
+	background-color:silver;
+
+}
+.customdiv3{
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	min-height:200px;
+	margin:3px;
+	font-size:large;
+}
+.customdiv4{
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	min-height:300px;
+	background-color: silver;
+	
+	font-size:large;
+}
+.customdiv5{
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	min-height:100px;
+	background-color: silver;
+	margin:3px;
+	font-size:large;
+}
